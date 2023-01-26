@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transaction
-nav_order: 6
+nav_order: 7
 ---
 # Create Transaction:
  *  Create transaction: - Right-click on the **FactoCloudConnect** project resource in the Project browser tree
