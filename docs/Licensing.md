@@ -22,7 +22,7 @@ Following image can give you some idea about the license
 ## Please Note
 * Valid Ignition License should be effective on the gateway at the time of installing or running FactoCloudConnect
 * Application will stop working if the Ignition License expires or is invalidated irrespective of the license status of FactoCloudConnect
-* A trial version of the license can be downloaded from the {% https://inductiveautomation.com/moduleshowcase/ %} Third-Party Module Showcase to evaluate the product.  Trial version will automatically expire after two hours post which it may be reset for another two hours for evaluation.
+* A trial version of the license can be downloaded from the [https://inductiveautomation.com/moduleshowcase/] Third-Party Module Showcase to evaluate the product.  Trial version will automatically expire after two hours post which it may be reset for another two hours for evaluation.
 * Any unauthorized copying or distribution of the license is prohibited. 
 
 
